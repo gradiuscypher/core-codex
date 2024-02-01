@@ -8,4 +8,5 @@ Each directory in this repo will have a top-level `readme.md` that serves as an 
 For contribution guidelines, please see [contributing.md](contributing.md)
 
 # Index
+[Unorganized Links](links.md)
 [Gaming](gaming/readme.md)
