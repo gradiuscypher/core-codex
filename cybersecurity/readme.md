@@ -1,4 +1,4 @@
 Anything related to cybersecurity.
 
 # Index
-[Link collection](cybersecurity/links.md)
+- [Link collection](cybersecurity/links.md)
