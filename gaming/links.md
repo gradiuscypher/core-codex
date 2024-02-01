@@ -7,3 +7,4 @@
 | https://guides.ffxivteamcraft.com/guide/diadem-fishing-guide | ff14, diadem, fishing | A ff14 diadem fishing guide |
 | https://guides.ffxivteamcraft.com/guide/crafting-leveling-guide | ff14, crafting, guide | A ff14 crafting guide for 1-90 |
 | https://ffxivguild.com/ff14-mining-miner-leveling-guide-a-realm-reborn/9/ | ff14, gathering | A ff14 mining guide for level 90 |
+| https://play.proceduralrealms.com/ | A game |  |
