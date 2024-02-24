@@ -2,7 +2,7 @@
 | Link                                  | Description           | Cost        | Tags       |
 |---------------------------------------|-----------------------|-------------|------------|
 | [Aseprite](https://www.aseprite.org/) | Pixel Art tool        | Free or $20 | Pixel, Art |
-| [GIMP](https://www.aseprite.org/)     | Photoshop Alternative | Free        | Art        |
+| [GIMP](https://www.gimp.org/)     | Photoshop Alternative | Free        | Art        |
 | [Blender](https://www.blender.org/)   | 3D Modeling           | Free        | 3D, Art    |
 
 
