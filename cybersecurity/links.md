@@ -1,5 +1,8 @@
 
-| Link | Tags | Description |
-| ---- | ---- | ---- |
-| https://www.detectionengineering.net/ | detections | Detection engineering blog |
-| https://intel.taggartinstitute.org | rss, feed | Feed of a lot of cybersecurity resources |
+| Link                                  | Description                               | Tags       |
+| ------------------------------------- | ----------------------------------------- | ---------- |
+| https://www.detectionengineering.net/ | Detection engineering blog.               | detections |
+| https://intel.taggartinstitute.org    | Feed of a lot of cybersecurity resources. | rss, feed  |
+
+---
+[« back](readme.md)
