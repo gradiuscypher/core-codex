@@ -9,7 +9,7 @@ For contribution guidelines, please see [contributing.md](contributing.md)
 
 ## Index
 - [Cybersecurity](cybersecurity/README.md)
-- [Game Development](game-dev/readme.md)
+- [Game Development](game-dev/README.md)
 - [General Development](dev/README.md)
-- [Gaming](gaming/readme.md)
+- [Gaming](gaming/README.md)
 - [Unorganized Links](links.md)
