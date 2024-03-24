@@ -58,3 +58,6 @@ A  collection of links for topics that don't need an entire collection to themse
 | [**https://getpelican.com/**](https://getpelican.com/) | github, website |  |
 | https://archive.org/details/TheBlackBookOTR/TheBlackBook_19520217_01_OnSchedule.mp3 | music prod, old radio | old time radio recordings |
 | https://talkback.sh/?page_size=100 | links, news, feeds | tech related news feed |
+
+---
+[« back](README.md)

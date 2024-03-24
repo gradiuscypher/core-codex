@@ -7,4 +7,4 @@
 | [NextCord](https://docs.nextcord.dev/en/stable/)   | API wrapper for Discord                              | Bots         |
 
 ---
-[« back](readme.md)
+[« back](README.md)

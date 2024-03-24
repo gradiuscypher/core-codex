@@ -6,4 +6,4 @@
 | [Procedural Realms](https://play.proceduralrealms.com/)   | A game       |      |
 
 ---
-[« back](readme.md)
+[« back](README.md)

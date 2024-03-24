@@ -6,3 +6,6 @@ A collection of links and documentation related to everything gaming. This can b
 - [Dyson Sphere Program](dsp.md)
 - [Final Fantasy XIV](ff14.md)
 - [Tekken 8](tekken8.md)
+
+---
+[« back](../README.md)
