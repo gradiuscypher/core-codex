@@ -3,3 +3,6 @@ A collection of links and documentation related to everything gaming. This can b
 
 # Index
 - [Link collection](links.md)
+- [Dyson Sphere Program](dsp.md)
+- [Final Fantasy XIV](ff14.md)
+- [Tekken 8](tekken8.md)
