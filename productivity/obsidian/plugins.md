@@ -9,4 +9,4 @@
 | [Templater](https://github.com/SilentVoid13/Templater)                    | templating language.                              | community |
 
 ---
-[« back](readme.md)
+[« back](README.md)
