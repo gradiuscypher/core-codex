@@ -60,4 +60,4 @@ A  collection of links for topics that don't need an entire collection to themse
 | https://talkback.sh/?page_size=100 | links, news, feeds | tech related news feed |
 
 ---
-[« back](README.md)
+[« back](../README.md)

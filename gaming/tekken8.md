@@ -4,6 +4,4 @@
 | [Tekken 8 Character Guides](https://docs.google.com/spreadsheets/d/1g6HPdKV8gAhdSDMsBPf7VTFGmD7t_abupP3pgsdUm1A/edit#gid=1596849183)                            | Limited guides.                     |      |
 
 ---
-[« back](readme.md)
-
-
+[« back](README.md)
