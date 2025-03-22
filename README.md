@@ -14,4 +14,5 @@ For contribution guidelines, please see [CONTRIBUTING.md](.github/CONTRIBUTING.m
 - [General Development](dev/README.md)
 - [Gaming](gaming/README.md)
 - [Productivity](productivity/obsidian/README.md)
+- [Skills](skills/README.md)
 - [Unorganized Links](links.md)
