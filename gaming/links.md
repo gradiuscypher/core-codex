@@ -1,9 +1,14 @@
 
-| Link                                                      | Description  | Tags |
-| --------------------------------------------------------- | ------------ | ---- |
-| [Array Game](https://demonin.com/games/arrayGame/)        | Idle clicker |      |
-| [DodecaDragons](https://demonin.com/games/dodecaDragons/) | Idle clicker |      |
-| [Procedural Realms](https://play.proceduralrealms.com/)   | A game       |      |
+| Link                  | Description  | Tags |
+| --------------------- | ------------ | ---- |
+| [Array Game]()        | Idle clicker |      |
+| [DodecaDragons]()     | Idle clicker |      |
+| [Procedural Realms]() | A game       |      |
 
 ---
 [« back](README.md)
+
+[//]: # (Links)
+[1]: https://demonin.com/games/arrayGame/
+[2]: https://demonin.com/games/dodecaDragons/
+[3]: https://play.proceduralrealms.com/

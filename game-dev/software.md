@@ -1,17 +1,25 @@
 # Art
-| Link                                  | Description           | Cost        | Tags       |
-| ------------------------------------- | --------------------- | ----------- | ---------- |
-| [Aseprite](https://www.aseprite.org/) | Pixel Art tool        | Free or $20 | Pixel, Art |
-| [GIMP](https://www.gimp.org/)         | Photoshop Alternative | Free        | Art        |
-| [Blender](https://www.blender.org/)   | 3D Modeling           | Free        | 3D, Art    |
+| Link              | Description           | Cost        | Tags       |
+| ----------------- | --------------------- | ----------- | ---------- |
+| [Aseprite][1]     | Pixel Art tool        | Free or $20 | Pixel, Art |
+| [GIMP][2]         | Photoshop Alternative | Free        | Art        |
+| [Blender][3]      | 3D Modeling           | Free        | 3D, Art    |
 
 
 # Music
-| Link                                         | Description      | Tags   |
-| -------------------------------------------- | ---------------- | ------ |
-| [FamiStudio](https://famistudio.org/)        | 8/16 Bit Music   | Music  |
-| [Anvil Studio](https://www.anvilstudio.com/) | MIDI Audio       |  Music |
-| [BOSCA CEOIL](https://boscaceoil.net/)       | 8/16 Bit Music   | Music  |
+| Link              | Description      | Tags   |
+| ----------------- | ---------------- | ------ |
+| [FamiStudio][4]   | 8/16 Bit Music   | Music  |
+| [Anvil Studio][5] | MIDI Audio       |  Music |
+| [BOSCA CEOIL][6]  | 8/16 Bit Music   | Music  |
 
 ---
 [« back](README.md)
+
+[//]: # (Links)
+[1]: https://www.aseprite.org/
+[2]: https://www.gimp.org/
+[3]: https://www.blender.org/
+[4]: https://famistudio.org/
+[5]: https://www.anvilstudio.com/
+[6]: https://boscaceoil.net/

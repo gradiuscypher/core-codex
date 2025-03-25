@@ -9,10 +9,19 @@ Each directory in this repo will have a top-level `README.md` that serves as an 
 For contribution guidelines, please see [CONTRIBUTING.md](.github/CONTRIBUTING.md).
 
 ## Index
-- [Cybersecurity](cybersecurity/README.md)
-- [Game Development](game-dev/README.md)
-- [General Development](dev/README.md)
-- [Gaming](gaming/README.md)
-- [Productivity](productivity/obsidian/README.md)
-- [Skills](skills/README.md)
-- [Unorganized Links](links.md)
+- [Cybersecurity][1]
+- [Game Development][2]
+- [General Development][3]
+- [Gaming][4]
+- [Productivity][5]
+- [Skills][6]
+- [Unorganized Links][7]
+
+[//]: # (Links)
+[1]: cybersecurity/README.md
+[2]: game-dev/README.md
+[3]: dev/README.md
+[4]: gaming/README.md
+[5]: productivity/obsidian/README.md
+[6]: skills/README.md
+[7]: misc/links.md

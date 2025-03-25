@@ -1,6 +1,6 @@
 # Obsidian Templates
 
-This is a collection of templates for [Obsidian](https://obsidian.md).
+This is a collection of templates for [Obsidian][1].
 
 ## How to use
 
@@ -10,9 +10,9 @@ This is a collection of templates for [Obsidian](https://obsidian.md).
 
 ## Templates
 
-- [Daily Note](templates/daily_note.md)
-- [Person Template](templates/person_template.md)
-- [Root Cause Analysis](templates/rca_templates.md)
+- [Daily Note][2]
+- [Person Template][3]
+- [Root Cause Analysis][4]
 
 
 ### Daily Note
@@ -33,10 +33,10 @@ It includes the following sections:
 
 #### Dependencies
 
-To use this template you will need the following obsidian [plugins](plugins.md):
+To use this template you will need the following obsidian [plugins][5]:
 
-* [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)
-* [Templater](https://github.com/SilentVoid13/Templater)
+* [Tasks][6]
+* [Templater][7]
 
 ### Person Template
 
@@ -48,11 +48,11 @@ It will keep track of all the open tasks that include a link to the persons note
 
 #### Dependencies
 
-To use this template you will need the following obsidian [plugins](plugins.md):
+To use this template you will need the following obsidian [plugins][5]:
 
-* [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)
-* [Templater](https://github.com/SilentVoid13/Templater)
-* [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
+* [Tasks][6]
+* [Templater][7]
+* [Dataview][8]
 
 
 ### Root Cause Analysis
@@ -63,3 +63,12 @@ For more information please see the template, there is nothing fancy going on he
 
 ---
 [« back](README.md)
+
+[1]: https://obsidian.md
+[2]: templates/daily_note.md
+[3]: templates/person_template.md
+[4]: templates/rca_templates.md
+[5]: plugins.md
+[6]: https://github.com/obsidian-tasks-group/obsidian-tasks
+[7]: https://github.com/SilentVoid13/Templater
+[8]: https://github.com/blacksmithgu/obsidian-dataview
